@@ -1,19 +1,7 @@
 # country-flag
 
-## Project setup
-```
-npm install
-```
+A country flag component that returns a simple image in svg. You only have to pass the prop "iso". Example:
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+<CountryFlag iso="es" />
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

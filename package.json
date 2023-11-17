@@ -2,9 +2,10 @@
   "name": "country-flag",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/vue-country-flag.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build --target lib --name country-flag src/components/index.js"
   },
   "dependencies": {
     "vue": "^3.2.13"
