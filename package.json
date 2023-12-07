@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --target lib --name country-flag src/components/index.js"
+    "build": "vue-cli-service build --target lib --name CountryFlag index.js"
   },
   "dependencies": {
     "vue": "^3.2.13"

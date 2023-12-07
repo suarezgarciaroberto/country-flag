@@ -3,6 +3,7 @@
 </template>
 
 <script>
+import css from './CountryFlag.css'
 export default {
   name: 'CountryFlag',
   props: {
