@@ -1,3 +1,3 @@
-import CountryFlag from './src/components/CountryFlag.vue';
+import CountryFlag from './CountryFlag.vue';
 
 export default CountryFlag;
